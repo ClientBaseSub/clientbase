@@ -1,0 +1,16 @@
+[
+{
+  "modid": "clientbase",
+  "name": "ClientBase",
+  "description": "",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["DarKay__"],
+  "credits": "ClientBase for sub of DarKay__",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
